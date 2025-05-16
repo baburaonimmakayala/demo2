@@ -1,0 +1,30 @@
+h1{
+    color: darkblue;
+}
+h3{
+    color: darkblue;
+}
+div{
+    text-align: center;
+}
+body{
+    text-align: center;
+}
+.submit{
+    height: 40px;
+    width: 100px;
+    font-weight: bold;
+    border-radius: 10px;
+    padding: 20px, 50px;
+}
+.submit:hover{
+    background-color: rgb(98, 98, 254);
+    color: white;
+}
+.click{
+    border-radius: 10;
+}
+.click:hover{
+    background-color: rgb(98, 98, 254);
+    color: white;
+}
